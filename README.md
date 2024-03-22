@@ -1,16 +1,24 @@
-### Hi there 👋
+<h1 align="center">Hi, I'am DizYaY 👋</h1>
+<h2 align="center">✨I'am a Morrocan devlopper passionate about the developpement (and mangas :3)✨</h2>
 
-<!--
-**YaYdeYouTube/YaYdeYouTube** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Who am I ?
+___
+        ↪ French Student
+        ↪ 11 years old
+        ↪ I want to study computer sciense
+        ↪ Passionate about developpement
+        ↪ I speak french and english
 
-Here are some ideas to get you started:
+### What do I do ?
+___
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+        ↪ Web-sites
+        ↪ Discord bots
+        ↪ Video games
+        ↪ Algorithms
+        ↪ A.I
+
+### Contact me !
+___
+      If anyone want to contact me (for everything related to development), my discord is DizYaY (or yazidus)
+<h1 align="center">Thank you !</h1>
